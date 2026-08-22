@@ -1,162 +1,126 @@
-# 👋 Hi, I'm Sanket Pal
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+Progress+%F0%9F%A4%96;Python+%7C+TensorFlow+%7C+PyTorch;Cloud+%7C+AWS+%7C+Docker;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=260&section=header&text=SANKET%20PAL&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20~%20Python%20~%20C%2FC%2B%2B%20~%20Building%20the%20Future&descAlignY=58&descSize=17"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Sanket.exe...;%3E+Loading+AI%2FML+Modules...;%3E+Compiling+Python+%2B+C+%2B+C%2B%2B...;%3E+System+Ready.+Say+Hi+%F0%9F%91%8B" alt="Typing SVG"/></a>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanketpal528-cyber&style=for-the-badge&color=00F0FF&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/sanketpal528-cyber?style=for-the-badge&color=00F0FF&labelColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=black)](https://www.linkedin.com/in/sanket-pal-140a24253/)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🤖 About Me
+## 🪐 Who Am I
 
-- 🧠 **Focused on:** Artificial Intelligence & Machine Learning
-- 🔭 **Currently building:** AI Model Optimization · Cloud Security on AWS
-- 🌱 **Learning:** Deep Learning · NLP · Computer Vision · MLOps
-- 💡 **Interests:** Neural Networks · Generative AI · Reinforcement Learning
-- ⚡ **Fun fact:** Solved 120+ LeetCode problems while building real-world AWS deployments
-- 📍 **Based in:** Indore, Madhya Pradesh, India
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
----
-
-## 🧠 AI / ML Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-
-</div>
-
----
-
-## 💻 Full Tech Stack
-
-<details>
-<summary><b>🌐 Web & Backend</b></summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔧 Languages</b></summary>
-<br>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | Description | Link |
-|---|---|---|---|
-| 📚 **Library Management System** | JS · HTML · CSS | Web-based LMS with books, members, fines & reports | [🔗 Repo](https://github.com/sanketpal528-cyber/library_management.py) · [🌐 Live](https://sanketpal528-cyber.github.io/library_management.py/) |
-| 📋 **Attendance System** | JS · HTML · CSS | Digital attendance tracker with class-wise reports | [🔗 Repo](https://github.com/sanketpal528-cyber) |
-| 🐍 **Python Projects** | Python | Scripts, algorithms & data structures | [🔗 Repo](https://github.com/sanketpal528-cyber/python) |
-| 🌐 **Portfolio** | HTML · CSS · JS | BMW-inspired cyberpunk developer portfolio | [🔗 Repo](https://github.com/sanketpal528-cyber/portfolio) |
-
----
-
-## 🎯 AI/ML Learning Roadmap
-
-```
-✅ Python for Data Science (NumPy, Pandas, Matplotlib)
-✅ Machine Learning Fundamentals (scikit-learn)
-✅ MLflow for experiment tracking
-🔄 Deep Learning (TensorFlow / PyTorch)        ← Currently here
-🔄 Natural Language Processing (Hugging Face)
-⬜ Computer Vision (OpenCV + CNN)
-⬜ Reinforcement Learning
-⬜ Generative AI (LLMs, Diffusion Models)
-⬜ MLOps (Model deployment, monitoring, CI/CD)
+```yaml
+name: Sanket Pal
+role: Software Engineer
+focus: Artificial Intelligence & Machine Learning
+learning:
+  - AI / ML
+  - Python
+  - C
+  - C++
+status: "🟢 Online — building & learning"
+motto: "Code first, gravity later 🚀"
 ```
 
----
+- 🧠 Diving deep into **AI/ML** — models, data, and the math behind the magic
+- 💻 Strengthening fundamentals in **Python, C & C++**
+- 🌱 Learning something new every single day
+- 🤝 Open to internships, projects & collabs
+- 📬 [Let's talk on LinkedIn](https://www.linkedin.com/in/sanket-pal-140a24253/)
 
-## 📊 GitHub Stats
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## ⚡ Skill Matrix
 
 <div align="center">
 
-<img src="https://github-readme-stats.shiot.dev/api?username=sanketpal528-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://streak-stats.demolab.com/?user=sanketpal528-cyber&theme=dark&hide_border=false" height="150"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,linux,anaconda,tensorflow&theme=dark&perline=9"/>
 
 </div>
 
+<br>
+
+**Python**
+![](https://progress-bar.xyz/80/?title=Learning&width=400&color=00F0FF)
+
+**C**
+![](https://progress-bar.xyz/65/?title=Learning&width=400&color=A855F7)
+
+**C++**
+![](https://progress-bar.xyz/60/?title=Learning&width=400&color=FF4D8D)
+
+**AI / ML**
+![](https://progress-bar.xyz/55/?title=Exploring&width=400&color=00FF9C)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🌌 GitHub Universe
+
 <div align="center">
 
-<img src="https://github-readme-stats.shiot.dev/api/top-langs/?username=sanketpal528-cyber&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanketpal528-cyber&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpal528-cyber&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=00F0FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpal528-cyber&theme=dracula&hide_border=true&background=00000000&ring=00F0FF&fire=FF4D8D"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketpal528-cyber&theme=dracula&bg_color=00000000&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true" width="97%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🌐 Connect
+## 🐍 Anti-Gravity Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/sanketpal528-cyber/sanketpal528-cyber/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🎮 Fun Terminal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanket-pal-140a24253)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketpal528-cyber)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketpal528@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://sanketpal528-cyber.github.io/portfolio/)
+<img src="https://readme-jokes.vercel.app/api?theme=dracula&border=false"/>
+
+<br><br>
+
+![](https://img.shields.io/badge/Coffee%20Consumed-Infinite%20%E2%98%95-00F0FF?style=for-the-badge)
+![](https://img.shields.io/badge/Bugs%20Fixed-1%20%2F%20101-FF4D8D?style=for-the-badge)
+![](https://img.shields.io/badge/Gravity-Successfully%20Escaped-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/Sleep.exe-Not%20Responding-critical?style=for-the-badge)
+
+```text
+$ whoami
+> A software engineer floating between semicolons and neural networks.
+
+$ status
+> 404: gravity not found. compiling dreams instead.
+```
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sanketpal528-cyber&icon=6&color=0)
+### 📡 Connect With Me
 
-*"The best way to predict the future is to build it." — Alan Kay*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-pal-140a24253/)
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
+
+<i>⭐️ Thanks for visiting — always up for connecting with fellow builders & dreamers!</i>
 
 </div>
